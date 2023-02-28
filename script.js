@@ -1,4 +1,4 @@
-const api_key = "&appid=2e1c8094edceb4c0845161199bdc2073";
+const api_key = "&appid=3c4454366c1f2146d45c9904d4d75bc0";
 const url = "https://api.openweathermap.org/data/2.5/weather?q=";
 const icon = "http://openweathermap.org/img/wn/";
 
